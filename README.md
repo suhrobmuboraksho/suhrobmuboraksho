@@ -2,6 +2,8 @@
 
 ## 🚀 About Me
 
+<!-- Deliberate long sentence. -->
+
 I'm a passionate **Frontend Developer** with over 3 years of experience building dynamic and robust applications with **React**.
 
 Currently, I'm learning Python in MIT Emerging Talents Foundations Track.
