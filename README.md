@@ -7,7 +7,7 @@ building dynamic and robust applications with **React**.
 
 Currently, I'm learning Python in the MIT Emerging Talents Foundations Track.  
 
-On my way to becoming a **Fullstack Developer**. 🚀  
+On my way to becoming a **Fullstack Developer**.
 
 ## 💻 My Tech Stack
 
