@@ -18,7 +18,7 @@ On my way to becoming a **Fullstack Developer**.
 - **Tools:**  
   Git, Photoshop, Figma  
 - **Other Skills:**  
-  UI/UX design, API development 🚀
+  UI/UX design, API development
 
 ## 🤝 Connect with Me
 
